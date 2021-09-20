@@ -19,3 +19,7 @@ color: black;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-
 .sir_john{
 color: sienna;
 }
+.table, th, td {
+    border: 1px solid red;color: rgb(67, 67, 179);text-align: center;padding: 01em;margin: 0em;
+  }
+  tr:nth-child(even) {background-color: #b38d8d;}
