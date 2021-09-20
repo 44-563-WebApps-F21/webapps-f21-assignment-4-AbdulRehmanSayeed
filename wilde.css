@@ -5,9 +5,9 @@
 color: black;font-family: Georgia, 'Times New Roman', Times, serif;background-color: aquamarine;size: 1.8em;
 }
 .name{
-color: black;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;size: 1em;
+color: black;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;size: 1.4em;
 }
-.stage-direction.a.hover{
+.stage-direction:hover{
     color: red;background-color: tan;
 }
 .hester{
