@@ -24,3 +24,26 @@ color: sienna;
   }
   tr:nth-child(even) {background-color: #b38d8d;}
   .name:hover{ text-shadow: 1px 1px red;filter: blur(1px);}
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: #b38d8d;
+    color: black;
+  }
+
+  li a:hover{
+    background-color: black;
+    color: white;
+  }
